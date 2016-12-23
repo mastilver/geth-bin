@@ -32,12 +32,12 @@
     "wrapper"
   ],
   "dependencies": {
-    "bin-wrapper": "^2.0.0",
+    "bin-wrapper": "^3.0.2",
     "logalot": "^2.0.0"
   },
   "devDependencies": {
     "ava": "*",
-    "bin-check": "^3.0.0",
+    "bin-check": "^4.0.1",
     "xo": "*"
   },
   "xo": {
